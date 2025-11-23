@@ -1,0 +1,18 @@
+body {
+    font-family: "Segoe UI", sans-serif;
+}
+
+.card {
+    border-radius: 12px;
+}
+
+.text-truncate {
+    max-width: 250px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+body {
+    background: #f5f6fa;
+}
